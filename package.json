@@ -1,0 +1,11 @@
+{
+  "name": "darsoft-david-bot",
+  "version": "1.0.0",
+  "description": "Bot for checking code review requests.",
+  "main": "bot.js",
+  "author": "Jakub Daraz",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.7.2"
+  }
+}
